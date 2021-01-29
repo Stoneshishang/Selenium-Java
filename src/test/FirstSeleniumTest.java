@@ -30,7 +30,7 @@ public class FirstSeleniumTest {
 
     public static void runTest() {
         driver.get("https://www.selenium.dev/");
-        driver.quit();
+//        driver.quit();
     }
 
 }
